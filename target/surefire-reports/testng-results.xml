@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2022-02-20T22:57:16 IST" finished-at="2022-02-20T22:57:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2022-02-20T22:57:16 IST" finished-at="2022-02-20T22:57:16 IST">
+      <class name="com.jep.TestExample7">
+        <test-method status="PASS" signature="scenario1()[pri:0, instance:com.jep.TestExample7@3e6fa38a]" name="scenario1" duration-ms="3" started-at="2022-02-20T22:57:16 IST" finished-at="2022-02-20T22:57:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+        <test-method status="PASS" signature="scenario2()[pri:0, instance:com.jep.TestExample7@3e6fa38a]" name="scenario2" duration-ms="0" started-at="2022-02-20T22:57:16 IST" finished-at="2022-02-20T22:57:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+        <test-method status="PASS" signature="scenario3()[pri:0, instance:com.jep.TestExample7@3e6fa38a]" name="scenario3" duration-ms="0" started-at="2022-02-20T22:57:16 IST" finished-at="2022-02-20T22:57:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario3 -->
+      </class> <!-- com.jep.TestExample7 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
